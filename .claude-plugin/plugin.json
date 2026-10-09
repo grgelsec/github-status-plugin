@@ -1,0 +1,7 @@
+{
+  "name": "github-status",
+  "version": "0.1.0",
+  "description": "Shows GitHub's status under the prompt",
+  "author": { "name": "grgelsec" },
+  "repository": "https://github.com/grgelsec/github-status-plugin"
+}
